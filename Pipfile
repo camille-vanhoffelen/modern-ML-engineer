@@ -9,6 +9,8 @@ verify_ssl = true
 jupyter = "*"
 jupyter-contrib-nbextensions = "*"
 jupyterthemes = "*"
+pandas = "*"
+numpy = "*"
 
 [requires]
 python_version = "3.8"
