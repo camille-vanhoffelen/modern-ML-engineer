@@ -2,7 +2,7 @@
 
 # Assignment Guidelines
 
-## 1. Format
+## 1. Format
 
 For each assignment, you will be given a jupyter notebook that you are expected to **fill in** and **submit**. The notebooks will contain three types of cells:  
 
@@ -30,7 +30,7 @@ Where applicable, **unit tests** will be provided underneath the incomplete code
 
 When graded, the notebooks will be run cell by cell from top to bottom. Therefore it's a good idea to do a "final check" before submission, by [restarting the kernel](#Restarting-the-kernel) and running all cells in order. All unit tests should pass! 
 
-#### Restarting the kernel
+#### Restarting the kernel
 
 Jupyter notebooks share variables between cells. This means that outputs are dependent on the _order_ in which the cells were executed. Keep this in mind if you ever backtrack during your assigment, a unit test might be failing solely because of code run _after_ the cell in question! If in doubt, you can restart the [kernel](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#kernel) by selecting `Kernel>Restart` in the notebook menu. This will clear all state in the notebook (but keep cell contents), and start fresh.
 
