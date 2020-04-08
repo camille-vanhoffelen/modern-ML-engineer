@@ -11,6 +11,9 @@ jupyter-contrib-nbextensions = "*"
 jupyterthemes = "*"
 pandas = "*"
 numpy = "*"
+pillow = "*"
+spacy = "*"
+wordcloud = "*"
 
 [requires]
 python_version = "3.8"
