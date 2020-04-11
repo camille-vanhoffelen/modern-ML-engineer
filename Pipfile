@@ -14,6 +14,7 @@ numpy = "*"
 pillow = "*"
 spacy = "*"
 wordcloud = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.8"
