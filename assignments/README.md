@@ -27,6 +27,8 @@ For **tasks**, a 1/2 point will be given to code that successfully accomplishes 
 
 Where applicable, **unit tests** will be provided underneath the incomplete code cells to help you validate your work. **Warning: The unit tests are not used for grading**. The behaviour of your code will be manually assessed. Code that passes a unit test is not necessarily accomplishing the task correctly, so please check and debug your code thoroughly. However , failing the unit tests is a strong indication that you should fix your code, and passing the unit tests is a good sign that your code is working as expected.
 
+**Bonus** tasks and questions are for an additional 1/2 point, and are not mandatory. They will be added to the score, although an assignment cannot score more than the maximal grade.
+
 ## 4. Tips
 
 #### Final check
