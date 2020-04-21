@@ -14,7 +14,7 @@ The latter will always be clearly marked with `# INSERT YOUR CODE HERE` comments
 
 ## 2. Submission
 
-Please send the completed jupyter notebook file (`.ipynb`) as an email attachment to the teacher before the dealine. Points will be deducted for late submissions.
+Please send the completed jupyter notebook file (`.ipynb`) as an email attachment to the teacher before the dealine.
 
 ## 3. Grading Scheme
 
@@ -29,7 +29,19 @@ Where applicable, **unit tests** will be provided underneath the incomplete code
 
 **Bonus** tasks and questions are for an additional 1/2 point, and are not mandatory. They will be added to the score, although an assignment cannot score more than the maximal grade.
 
-## 4. Tips
+## 4. Late Submissions
+
+### Assignments 1-4
+
+Assignments are given on Mondays, and you have two weeks to complete them. i.e the deadline is on **Monday at midday, two weeks after the assignments are handed out**. Late assignments will be given a grade penalty of **10% per 24h**, up until the Friday of deadline week at midday, after which assignments will not be accepted.
+
+Each student gets one late submission "joker" for the whole course. This joker allows you to hand in one of the first four assignments late without point deductions (not the final project). The joker extension is up to the Friday of the same week, at midday, after which assignments will not be accepted. Using a "joker" does not move back the deadline of the next assignment. 
+
+### Final Project
+
+The final project will start on the 01/06/2020, and you will be given 4 weeks to complete it.
+
+## 5. Tips
 
 #### Final check
 
@@ -46,6 +58,10 @@ When programming, it is very easy to lose a change, or to accidentally break wor
 #### Difficulty
 
 Assignments 1-4 test variations of what was already covered in class, and are not intended to be extremely difficult. If you are stuck, please consider revisiting one of the previous lecture notebooks!
+
+#### Time management
+
+This is a _hands on_ course, meaning tests and theoretical exams are replaced with coding homework and projects. Completeling these assignments requires practical skills as well as knowledge, and as such, it is a pretty bad idea to start them at the last minute. The best way to distribute the workload more evenly is to keep up to date with the lectures. It is important to watch/read the content to understand the concepts, but also to play with the notebooks to feel comfortable with the python libraries and their apis. This will ensure that you already have all the necessary competences before starting the homework.
 
 #### Jupyter Notebook Tutorial
 
