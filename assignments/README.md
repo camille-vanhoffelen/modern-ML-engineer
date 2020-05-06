@@ -19,11 +19,11 @@ Please send the completed jupyter notebook file (`.ipynb`) as an email attachmen
 ## 3. Grading Scheme
 
 
-Unless otherwise stated, each problem counts for 1 point.  
+Unless otherwise stated, each task counts for 1 point.  
 
-For **questions**, 1 point will be given for a comprehensive answer, 1/2 for a partial answer, and 0 for a wrong answer.  
+For :brain: **:written questions**, 1 point will be given for a comprehensive answer, 1/2 for a partial answer, and 0 for a wrong answer.  
 
-For **tasks**, a 1/2 point will be given to code that successfully accomplishes the task, and a 1/2 point is reserved for code quality. Code quality includes using the correct methods, following api "best practices", efficiency, clarity, and comments. This does means that you may get 1/2 point for broken code, if the attempt is coherent, and commented or self-explanatory.
+For :muscle: **coding tasks**, a 1/2 point will be given to code that successfully accomplishes the task, and a 1/2 point is reserved for code quality. Code quality includes using the correct methods, following api "best practices", efficiency, clarity, and comments. This does means that you may get 1/2 point for broken code, if the attempt is coherent, and commented or self-explanatory.
 
 Where applicable, **unit tests** will be provided underneath the incomplete code cells to help you validate your work. **Warning: The unit tests are not used for grading**. The behaviour of your code will be manually assessed. Code that passes a unit test is not necessarily accomplishing the task correctly, so please check and debug your code thoroughly. However , failing the unit tests is a strong indication that you should fix your code, and passing the unit tests is a good sign that your code is working as expected.
 
