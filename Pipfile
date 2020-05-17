@@ -17,6 +17,10 @@ wordcloud = "*"
 seaborn = "*"
 sklearn = "*"
 folium = "*"
+keras = "*"
+tensorflow = "*"
+pydot = "*"
+graphviz = "*"
 
 [requires]
 python_version = "3.8"
