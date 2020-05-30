@@ -21,6 +21,7 @@ keras = "*"
 tensorflow = "*"
 pydot = "*"
 graphviz = "*"
+torch = "*"
 
 [requires]
 python_version = "3.8"
