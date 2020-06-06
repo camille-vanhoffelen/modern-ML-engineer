@@ -22,6 +22,7 @@ tensorflow = "*"
 pydot = "*"
 graphviz = "*"
 torch = "*"
+torchvision = "*"
 
 [requires]
 python_version = "3.8"
