@@ -20,12 +20,18 @@ Pick **one** task to investigate in your final project:
 
 **Task A**
 This is a classification task. Predict if a person's income is greater than 50k $, using tabular data.
+label: `income`
+[dataset url](https://introduction-to-machine-learning-ilia-university.s3.eu-west-2.amazonaws.com/final_project/census_income.csv)
 
 **Task B**
 This is a regression task. Predict a person's medical insurance costs, using tabular data.
+label: `charges`
+[dataset url](https://introduction-to-machine-learning-ilia-university.s3.eu-west-2.amazonaws.com/final_project/medical_insurance.csv)
 
 **Task C**
 This is a classification task. Predict pneumonia, using chest x-ray images.
+label: `normal` vs `pneumonia`
+[dataset url](https://introduction-to-machine-learning-ilia-university.s3.eu-west-2.amazonaws.com/final_project/chest_xray.tar.gz)
 
 Feel free to choose your own dataset + task, as long as it wasn't used in the course before. Please consult me before doing so, to check if the choice is a good fit for this project size.
 
