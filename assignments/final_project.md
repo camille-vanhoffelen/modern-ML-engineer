@@ -8,7 +8,7 @@ In this final project, you will put into practice everything you have learned so
 ## Experimental Report
 
 **Credits: 30%**
-**Due: 03/07/2020 at noon**
+**Due: 10/07/2020 at noon**
 
 This is a report like those data scientists make to share their experimental progress. It tests your ability to design, carry out, and communicate machine learning experiments.
 
@@ -146,7 +146,7 @@ I recommend a compromise however: first coding/debugging your experiments inside
 ## Presentation
 
 **Credits: 30%**
-**Due: week of 06/07**
+**Due: week of 13/07**
 
 **_More details will be added asap_**
 
