@@ -148,7 +148,48 @@ I recommend a compromise however: first coding/debugging your experiments inside
 **Credits: 30%**
 **Due: week of 13/07**
 
-**_More details will be added asap_**
-
-
 This is a short presentation like those data scientists are expected to make to summarize their experimental results. It tests the ability of the student to communicate, synthesize, and discuss machine learning experiments.
+
+### Format
+
+The presentation is a 10-15mn live presentation. It will be followed by ~15mn of Q&A for a total of 30mn. 
+
+##### Presentation
+
+The presentation should summarize and communicate the results of the report. It may do so by showing data, numbers, diagrams, or graphs on a slide deck. The target audience is technical with no previous knowledge of the report. It is recommended that the presentation roughly follows the structure of the report:
+
+**Introduction:**
+* remind the task and the goal of the project
+
+**Data Exploration:**
+* summarize the key aspects of the dataset
+
+**Data Munging:**
+* note any preprocessing applied to the data
+
+**Experiments:**
+* describe the experiments carried out 
+
+**Analysis & Discussion:**
+* communicate the experimental results
+* summarize conclusions
+* share ideas on how to continue this work
+* describe the ethical significance of this work
+* ...
+
+##### Q&A
+
+The Q&A will verify the student's understanding the techniques used, and open discussion on the scientific and ethical significance of this work.
+
+Questions to expect on the Q&A:
+* qualitatively, how does this hyperparameter affect the model's optimization?
+* what does this evaluation metric represent?
+* what are the ethical consequences of your model's errors if it were used in the real world?
+Questions to **NOT** expect on the Q&A:
+* please prove the SVM kernel trick 
+* what's the equation for the adam optimizer gradient update?
+
+
+**Presentation Size**
+
+The bulk of the work comes from the final project itself. Students are expected to create ~ 10 slides to synthesize results, and to make sure they can answer questions about their experiments.
