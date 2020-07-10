@@ -154,7 +154,7 @@ This is a short presentation like those data scientists are expected to make to 
 
 The presentation is a 10-15mn live presentation. It will be followed by ~15mn of Q&A for a total of 30mn. 
 
-##### Presentation
+#### Presentation
 
 The presentation should summarize and communicate the results of the report. It may do so by showing data, numbers, diagrams, or graphs on a slide deck. The target audience is technical with no previous knowledge of the report. It is recommended that the presentation roughly follows the structure of the report:
 
@@ -177,7 +177,7 @@ The presentation should summarize and communicate the results of the report. It 
 * describe the ethical significance of this work
 * ...
 
-##### Q&A
+#### Q&A
 
 The Q&A will verify the student's understanding the techniques used, and open discussion on the scientific and ethical significance of this work.
 
@@ -185,6 +185,7 @@ Questions to expect on the Q&A:
 * qualitatively, how does this hyperparameter affect the model's optimization?
 * what does this evaluation metric represent?
 * what are the ethical consequences of your model's errors if it were used in the real world?
+
 Questions to **NOT** expect on the Q&A:
 * please prove the SVM kernel trick 
 * what's the equation for the adam optimizer gradient update?
