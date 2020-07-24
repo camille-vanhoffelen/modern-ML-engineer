@@ -57,55 +57,81 @@ Links to lecture slides are found at the top of each notebook. Notebooks can be 
 
 ### Introduction
 
-* [Workstation Setup](introduction/workstation_setup.ipynb)
+* **Workstation Setup**  
+[slides](https://docs.google.com/presentation/d/1NzSp1gmr07PSPhl6GQJbUGuuCyaw8XOCuRNq7cJyrY8/edit?usp=sharing) [notebook](introduction/workstation_setup.ipynb)
 
 ### Chapter 1: Data Engineering
 
-* 1.1 Fundamentals of Data Engineering & Data Lakes  
+* **1.1 Fundamentals of Data Engineering & Data Lakes**  
 [slides](https://docs.google.com/presentation/d/1Vm1exKZKIjunL2IrO3aL19r1Fi2aimYvHkfg-B-DWx4/edit?usp=sharing) [notebook](data_engineering/1.1_fundamentals_of_data_engineering/fundamentals_of_data_engineering.ipynb)
-* 1.2 Data Pipelines  
+* **1.2 Data Pipelines**  
 [slides](https://docs.google.com/presentation/d/1KLTh7NLoTnKFRZsIIthi8YEH_l4U1NEZzwmctqWrUeo/edit?usp=sharing) [notebook](data_engineering/1.2_data_pipelines/data_pipelines.ipynb)
-* 1.3 Data Warehouses  
+* **1.3 Data Warehouses**  
 [slides](https://docs.google.com/presentation/d/1WJStBBMFbISb5xFqd7d2yDd0Ipkg95mZ1JqcK9YIIG8/edit?usp=sharing) [notebook](data_engineering/1.3_data_warehouses/data_warehouses.ipynb)
-* 1.4 Effective Data Storage  
+* **1.4 Effective Data Storage**  
 [slides](https://docs.google.com/presentation/d/14khFbWPtw1JhjFWCKZMqCLRd0oJdqr0jN-1-JTYvXLM/edit?usp=sharing) [notebook](data_engineering/1.4_effective_data_storage/effective_data_storage.ipynb)
 
 ### Chapter 2: Data Exploration
 
-* [2.1 Introduction to Numpy & Pandas](data_exploration/2.1_introduction_to_numpy_and_pandas/introduction_to_numpy_and_pandas.ipynb)
-* [2.2 Tabular Data Pt.1](data_exploration/2.2_tabular_data_pt.1/tabular_data_pt.1.ipynb)
-* [2.3 Tabular Data Pt.2](data_exploration/2.3_tabular_data_pt.2/tabular_data_pt.2.ipynb)
-* [2.4 Time Series Data](data_exploration/2.4_time_series_data/time_series_data.ipynb)
-* [2.5 Text & Image Data](data_exploration/2.5_text_and_image_data/text_and_image_data.ipynb)
-* [2.6 Data Visualization](data_exploration/2.6_data_visualization/data_visualization.ipynb)
+* **2.1 Introduction to Numpy & Pandas**  
+[slides](https://docs.google.com/presentation/d/1R9mpEMQpoIyZGTTlKhTg_5jb9-mMDA1zDXtOK_75yYQ/edit?usp=sharing) [notebook](data_exploration/2.1_introduction_to_numpy_and_pandas/introduction_to_numpy_and_pandas.ipynb)
+* **2.2 Tabular Data Pt.1**  
+[notebook](data_exploration/2.2_tabular_data_pt.1/tabular_data_pt.1.ipynb)
+* **2.3 Tabular Data Pt.2**  
+[notebook](data_exploration/2.3_tabular_data_pt.2/tabular_data_pt.2.ipynb)
+* **2.4 Time Series Data**  
+[slides](https://docs.google.com/presentation/d/1Q8jO0RezXD3ZrJcZpOEAHSjEYRD-IOt3cSxmLVjSJ6w/edit?usp=sharing) [notebook](data_exploration/2.4_time_series_data/time_series_data.ipynb)
+* **2.5 Text & Image Data**  
+[notebook](data_exploration/2.5_text_and_image_data/text_and_image_data.ipynb)
+* **2.6 Data Visualization**  
+[slides](https://docs.google.com/presentation/d/1CFFTL2ulybHNXumfG37I_TfKSMQhu2tc4sq-iZMPecY/edit?usp=sharing) [notebook](data_exploration/2.6_data_visualization/data_visualization.ipynb)
 
 ### Chapter 3: Data Analysis
 
-* [3.1 Introduction to Machine Learning & Clustering](data_analysis/3.1_introduction_to_machine_learning_and_clustering/clustering.ipynb)
-* [3.2 Dimensionality Reduction](data_analysis/3.2_dimensionality_reduction/dimensionality_reduction.ipynb)
-* [3.3 Anomaly Detection](data_analysis/3.3_anomaly_detection/anomaly_detection.ipynb)
-* [3.4 Supervised Learning Fundamentals](data_analysis/3.4_supervised_learning_fundamentals/supervised_learning_fundamentals.ipynb)
-* [3.5 Linear Regression](data_analysis/3.5_linear_regression/linear_regression.ipynb)
-* [3.6 Logistic Regression](data_analysis/3.6_logistic_regression/logistic_regression.ipynb)
-* [3.7 Learning Better Pt.1](data_analysis/3.7_learning_better_pt.1/learning_better_pt.1.ipynb)
-* [3.8 Learning Better Pt.2](data_analysis/3.8_learning_better_pt.2/learning_better_pt.2.ipynb)
-* [3.9 Support Vector Machines](data_analysis/3.9_support_vector_machines/support_vector_machines.ipynb)
-* [3.10 Random Forests](data_analysis/3.10_random_forests/random_forests.ipynb)
-* [3.11 Neural Networks Pt.1](data_analysis/3.11_neural_networks_pt.1/neural_networks_pt.1.ipynb)
-* [3.12 Neural Networks Pt.2](data_analysis/3.12_neural_networks_pt.2/neural_networks_pt.2.ipynb)
-* [3.13 Learning Better Pt.3](data_analysis/3.13_learning_better_pt.3/learning_better_pt.3.ipynb)
-* [3.14 Introduction to Pytorch](data_analysis/3.14_introduction_to_pytorch/introduction_to_pytorch.ipynb)
-* [3.15 Computer Vision Pt.1](data_analysis/3.15_computer_vision_pt.1/computer_vision_pt.1.ipynb)
-* [3.16 Computer Vision Pt.2](data_analysis/3.16_computer_vision_pt.2/computer_vision_pt.2.ipynb)
+* **3.1 Introduction to Machine Learning & Clustering**  
+[slides](https://docs.google.com/presentation/d/19huVbcPfj-okCOjXIMG34cuQdZZP1ktswuMFjbT66ZA/edit?usp=sharing) [notebook](data_analysis/3.1_introduction_to_machine_learning_and_clustering/clustering.ipynb)
+* **3.2 Dimensionality Reduction**  
+[slides](https://docs.google.com/presentation/d/1MERynQkNITUhDNlNsI3H_Hce-rUUuwj4vGlgObyOV64/edit?usp=sharing) [notebook](data_analysis/3.2_dimensionality_reduction/dimensionality_reduction.ipynb)
+* **3.3 Anomaly Detection**  
+[slides](https://docs.google.com/presentation/d/1_0Z5Pc5yHA8MyEBE8Fedq44a-DcNPoQM1WhJN93p-TI/edit?usp=sharing) [notebook](data_analysis/3.3_anomaly_detection/anomaly_detection.ipynb)
+* **3.4 Supervised Learning Fundamentals**  
+[slides](https://docs.google.com/presentation/d/1B_LZE7phPDATCP8plnw8iCwFZGQch0n48TLsVtF8wdE/edit?usp=sharing) [notebook](data_analysis/3.4_supervised_learning_fundamentals/supervised_learning_fundamentals.ipynb)
+* **3.5 Linear Regression**  
+[slides](https://docs.google.com/presentation/d/1WuNm6U2vXD_Yd4DlOwt5kQWIV8lmdhtJlHc8yL0gAjE/edit?usp=sharing) [notebook](data_analysis/3.5_linear_regression/linear_regression.ipynb)
+* **3.6 Logistic Regression**  
+[slides](https://docs.google.com/presentation/d/1gk8b6M08T_D8BNbOts2CYkD4qxOeQVWefx7pWTt-YjI/edit?usp=sharing) [notebook](data_analysis/3.6_logistic_regression/logistic_regression.ipynb)
+* **3.7 Learning Better Pt.1**  
+[slides](https://docs.google.com/presentation/d/1FjhbqahaTEFODGs2e6SxcEBcsj84gntt5mgxrPeSn1o/edit?usp=sharing) [notebook](data_analysis/3.7_learning_better_pt.1/learning_better_pt.1.ipynb)
+* **3.8 Learning Better Pt.2**  
+[slides](https://docs.google.com/presentation/d/1Gb_jGPy0YIH8qDi2AgBQEwaoT8uPbyG_5N3dHPlthrM/edit?usp=sharing) [notebook](data_analysis/3.8_learning_better_pt.2/learning_better_pt.2.ipynb)
+* **3.9 Support Vector Machines**  
+[slides](https://docs.google.com/presentation/d/1YHlLETqoquGgoYOZTzHdrZ32cnmZKT0YmnGBr_bYHWI/edit?usp=sharing) [notebook](data_analysis/3.9_support_vector_machines/support_vector_machines.ipynb)
+* **3.10 Random Forests**  
+[slides](https://docs.google.com/presentation/d/1vpWA5RgGDv69ahG3B7kh4JozRu8LIxb29GMfRLk3KjQ/edit?usp=sharing) [notebook](data_analysis/3.10_random_forests/random_forests.ipynb)
+* **3.11 Neural Networks Pt.1**  
+[slides](https://docs.google.com/presentation/d/1ZXTfGXZmzQfeUQcGkCR7ejav-29ekTyjwU0pFq3Vi-8/edit?usp=sharing) [notebook](data_analysis/3.11_neural_networks_pt.1/neural_networks_pt.1.ipynb)
+* **3.12 Neural Networks Pt.2**  
+[slides](https://docs.google.com/presentation/d/1RLRcvClkzBXLrixydfXnEu6b91lqurEeeH7oq2e9Fuc/edit?usp=sharing) [notebook](data_analysis/3.12_neural_networks_pt.2/neural_networks_pt.2.ipynb)
+* **3.13 Learning Better Pt.3**  
+[slides](https://docs.google.com/presentation/d/1gCJQZkepnwXhu-IUAYsWZJrD4eFJDNwuhqyhQMs1P4w/edit?usp=sharing) [notebook](data_analysis/3.13_learning_better_pt.3/learning_better_pt.3.ipynb)
+* **3.14 Introduction to Pytorch**  
+[slides](https://docs.google.com/presentation/d/10G4hNPwtIq0urT--yN3VFznhqaS8kalBrlLXfcd9bvE/edit?usp=sharing) [notebook](data_analysis/3.14_introduction_to_pytorch/introduction_to_pytorch.ipynb)
+* **3.15 Computer Vision Pt.1**  
+[slides](https://docs.google.com/presentation/d/1peBshx2Ift4UGNylVcC5pvroWx883h8mklruR8bEMzM/edit?usp=sharing) [notebook](data_analysis/3.15_computer_vision_pt.1/computer_vision_pt.1.ipynb)
+* **3.16 Computer Vision Pt.2**  
+[slides](https://docs.google.com/presentation/d/11OZUT30pmz3N45cch9wzwjYZy-Xn46Fsk5q_QR0dtYU/edit?usp=sharing) [notebook](data_analysis/3.16_computer_vision_pt.2/computer_vision_pt.2.ipynb)
 * 3.17 Natural Language Processing Pt.1
 * 3.18 Natural Language Processing Pt.2
 * 3.19 ML Research
 
 ### Chapter 4: ML Engineering
 
-* [4.1 Fundamentals of ML Engineering](ml_engineering/4.1_fundamentals_of_ml_engineering/fundamentals_of_ml_engineering.ipynb)
-* [4.2 Evaluation Pt.1](ml_engineering/4.2_evaluation_pt.1/evaluation_pt.1.ipynb)
-* [4.3 Evaluation Pt.2](ml_engineering/4.3_evaluation_pt.2/evaluation_pt.2.ipynb)
+* **4.1 Fundamentals of ML Engineering**  
+[slides](https://docs.google.com/presentation/d/1sBwLhmz9aE3WQe2_W4Lcta3GElQV5BItfpG3ArCH-Ng/edit?usp=sharing) [notebook](ml_engineering/4.1_fundamentals_of_ml_engineering/fundamentals_of_ml_engineering.ipynb)
+* **4.2 Evaluation Pt.1**  
+[slides](https://docs.google.com/presentation/d/1Z2kUep8v6dKPlUrJh7sFBawHO0h7MpvaMbY8xrVH_9I/edit?usp=sharing) [notebook](ml_engineering/4.2_evaluation_pt.1/evaluation_pt.1.ipynb)
+* **4.3 Evaluation Pt.2**  
+[slides](https://docs.google.com/presentation/d/1HXO3G2Z9fAHOV7itzJ7jmUbggEDNZrg99rB7P6d_1OE/edit?usp=sharing) [notebook](ml_engineering/4.3_evaluation_pt.2/evaluation_pt.2.ipynb)
 * 4.4 Error Analysis
 * 4.5 Hyperparameter Optimization
 * 4.6 ML Challenges
