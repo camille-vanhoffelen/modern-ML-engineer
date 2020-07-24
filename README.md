@@ -61,10 +61,14 @@ Links to lecture slides are found at the top of each notebook. Notebooks can be 
 
 ### Chapter 1: Data Engineering
 
-* [1.1 Fundamentals of Data Engineering & Data Lakes](data_engineering/1.1_fundamentals_of_data_engineering/fundamentals_of_data_engineering.ipynb)
-* [1.2 Data Pipelines](data_engineering/1.2_data_pipelines/data_pipelines.ipynb)
-* [1.3 Data Warehouses](data_engineering/1.3_data_warehouses/data_warehouses.ipynb)
-* [1.4 Effective Data Storage](data_engineering/1.4_effective_data_storage/effective_data_storage.ipynb)
+* 1.1 Fundamentals of Data Engineering & Data Lakes  
+[slides](https://docs.google.com/presentation/d/1Vm1exKZKIjunL2IrO3aL19r1Fi2aimYvHkfg-B-DWx4/edit?usp=sharing) [notebook](data_engineering/1.1_fundamentals_of_data_engineering/fundamentals_of_data_engineering.ipynb)
+* 1.2 Data Pipelines  
+[slides](https://docs.google.com/presentation/d/1KLTh7NLoTnKFRZsIIthi8YEH_l4U1NEZzwmctqWrUeo/edit?usp=sharing) [notebook](data_engineering/1.2_data_pipelines/data_pipelines.ipynb)
+* 1.3 Data Warehouses  
+[slides](https://docs.google.com/presentation/d/1WJStBBMFbISb5xFqd7d2yDd0Ipkg95mZ1JqcK9YIIG8/edit?usp=sharing) [notebook](data_engineering/1.3_data_warehouses/data_warehouses.ipynb)
+* 1.4 Effective Data Storage  
+[slides](https://docs.google.com/presentation/d/14khFbWPtw1JhjFWCKZMqCLRd0oJdqr0jN-1-JTYvXLM/edit?usp=sharing) [notebook](data_engineering/1.4_effective_data_storage/effective_data_storage.ipynb)
 
 ### Chapter 2: Data Exploration
 
