@@ -51,7 +51,7 @@ Here's a few ideas:
 - Forget about the slides, find the notebook for that method you can't remember how to use, and copy paste to your heart's content.
 - Test yourself with the assignments. Become the nerdiest Pokemon trainer there ever was.
 
-Links to lecture slides are found at the top of each notebook. Notebooks can be viewed in [github](#syllabus), viewed in [nbviewer](https://nbviewer.jupyter.org/github/camille-vanhoffelen/modern-ML-engineer/tree/master/), run locally with [jupyter](introduction/workstation_setup.ipynb), run with [mybinder](https://mybinder.org/v2/gh/camille-vanhoffelen/modern-ML-engineer/master), or run with [google colab](https://colab.research.google.com/github/camille-vanhoffelen/modern-ML-engineer/blob/master/data_exploration/lecture2.1/introduction_to_numpy_and_pandas.ipynb).
+Notebooks can be viewed in [github](#syllabus), viewed in [nbviewer](https://nbviewer.jupyter.org/github/camille-vanhoffelen/modern-ML-engineer/tree/master/), run locally with [jupyter](introduction/workstation_setup.ipynb), run with [mybinder](https://mybinder.org/v2/gh/camille-vanhoffelen/modern-ML-engineer/master), or run with [google colab](https://colab.research.google.com/github/camille-vanhoffelen/modern-ML-engineer/blob/master/data_exploration/lecture2.1/introduction_to_numpy_and_pandas.ipynb).
 
 ## Syllabus
 
