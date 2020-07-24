@@ -77,22 +77,22 @@ Links to lecture slides are found at the top of each notebook. Notebooks can be 
 
 ### Chapter 3: Data Analysis
 
-* 3.1 Introduction to Machine Learning & Clustering
-* 3.2 Dimensionality Reduction
-* 3.3 Anomaly Detection
+* [3.1 Introduction to Machine Learning & Clustering](data_analysis/3.1_introduction_to_machine_learning_and_clustering/clustering.ipynb)
+* [3.2 Dimensionality Reduction](data_analysis/3.2_dimensionality_reduction/dimensionality_reduction.ipynb)
+* [3.3 Anomaly Detection](data_analysis/3.3_anomaly_detection/anomaly_detection.ipynb)
 * 3.4 Supervised Learning Fundamentals
-* 3.5 Linear Regression
-* 3.6 Logistic Regression
-* 3.7 Learning Better Pt.1
-* 3.8 Learning Better Pt.2
-* 3.9 Support Vector Machines
-* 3.10 Random Forests
-* 3.11 Neural Networks Pt.1
-* 3.12 Neural Networks Pt.2
-* 3.13 Learning Better Pt.3
-* 3.14 Introduction to Pytorch
-* 3.15 Computer Vision Pt.1
-* 3.16 Computer Vision Pt.2
+* [3.5 Linear Regression](data_analysis/3.5_linear_regression/linear_regression.ipynb)
+* [3.6 Logistic Regression](data_analysis/3.6_logistic_regression/logistic_regression.ipynb)
+* [3.7 Learning Better Pt.1](data_analysis/3.7_learning_better_pt.1/learning_better_pt.1.ipynb)
+* [3.8 Learning Better Pt.2](data_analysis/3.8_learning_better_pt.2/learning_better_pt.2.ipynb)
+* [3.9 Support Vector Machines](data_analysis/3.9_support_vector_machines/support_vector_machines.ipynb)
+* [3.10 Random Forests](data_analysis/3.10_random_forests/random_forests.ipynb)
+* [3.11 Neural Networks Pt.1](data_analysis/3.11_neural_networks_pt.1/neural_networks_pt.1.ipynb)
+* [3.12 Neural Networks Pt.2](data_analysis/3.12_neural_networks_pt.2/neural_networks_pt.2.ipynb)
+* [3.13 Learning Better Pt.3](data_analysis/3.13_learning_better_pt.3/learning_better_pt.3.ipynb)
+* [3.14 Introduction to Pytorch](data_analysis/3.14_introduction_to_pytorch/introduction_to_pytorch.ipynb)
+* [3.15 Computer Vision Pt.1](data_analysis/3.15_computer_vision_pt.1/computer_vision_pt.1.ipynb)
+* [3.16 Computer Vision Pt.2](data_analysis/3.16_computer_vision_pt.2/computer_vision_pt.2.ipynb)
 * 3.17 Natural Language Processing Pt.1
 * 3.18 Natural Language Processing Pt.2
 * 3.19 ML Research
