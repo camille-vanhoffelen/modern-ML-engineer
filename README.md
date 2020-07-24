@@ -1,8 +1,6 @@
 # :mortar_board: The Modern Machine Learning Engineer
 
-Welcome! :hugs:
-
-#### What is this?
+#### :hugs: Welcome!
 
 This is a course which teaches you how to build **useful ML software**. 
 
@@ -52,12 +50,11 @@ Here's a few ideas:
 - Test yourself with the assignments. Become the nerdiest Pokemon trainer there ever was.
 
 
-
 ## Syllabus
 
 ### Introduction
 
-Workstation setup
+* Workstation setup
 
 ### Chapter 1: Data Engineering
 
@@ -97,7 +94,7 @@ Workstation setup
 * 3.18 Natural Language Processing Pt.2
 * 3.19 ML Research
 
-### Chapter 4: ML Engineering
+### Chapter 4: ML Engineering
 
 * 4.1 Fundamentals of ML Engineering
 * 4.2 Evaluation Pt.1
@@ -126,7 +123,7 @@ _Students can build useful classification, regression, and clustering tools usin
 - Being Ethical and Secure  
 _Students understand the importance of privacy in data driven methods, and the responsibility of engineers concerning the impact of these technologies._
 
-## Assignments
+## Assignments
 
 The coursework is split between four small assignments, a final project, and a final presentation.
 
