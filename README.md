@@ -80,7 +80,7 @@ Links to lecture slides are found at the top of each notebook. Notebooks can be 
 * [3.1 Introduction to Machine Learning & Clustering](data_analysis/3.1_introduction_to_machine_learning_and_clustering/clustering.ipynb)
 * [3.2 Dimensionality Reduction](data_analysis/3.2_dimensionality_reduction/dimensionality_reduction.ipynb)
 * [3.3 Anomaly Detection](data_analysis/3.3_anomaly_detection/anomaly_detection.ipynb)
-* 3.4 Supervised Learning Fundamentals
+* [3.4 Supervised Learning Fundamentals](data_analysis/3.4_supervised_learning_fundamentals/supervised_learning_fundamentals.ipynb)
 * [3.5 Linear Regression](data_analysis/3.5_linear_regression/linear_regression.ipynb)
 * [3.6 Logistic Regression](data_analysis/3.6_logistic_regression/logistic_regression.ipynb)
 * [3.7 Learning Better Pt.1](data_analysis/3.7_learning_better_pt.1/learning_better_pt.1.ipynb)
