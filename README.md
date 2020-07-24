@@ -1,8 +1,10 @@
 # :mortar_board: The Modern Machine Learning Engineer
 
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/camille-vanhoffelen/modern-ML-engineer/tree/master/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/camille-vanhoffelen/modern-ML-engineer/master) [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camille-vanhoffelen/modern-ML-engineer/)
+
 #### :hugs: Welcome!
 
-This is a course which teaches you how to build **useful ML software**. 
+This is a **course** which teaches you how to build **useful ML software**. 
 
 This course aims **wide**. We will cover all topics required to be a successful ML engineer. This includes data engineering, data exploration, data analysis, and ML engineering, and frameworks like numpy, pandas, sklearn, keras, and pytorch (for a full list check the [syllabus](#syllabus) and the [learning goals](#learning-goals) section).
 
@@ -49,12 +51,13 @@ Here's a few ideas:
 - Forget about the slides, find the notebook for that method you can't remember how to use, and copy paste to your heart's content.
 - Test yourself with the assignments. Become the nerdiest Pokemon trainer there ever was.
 
+Links to lecture slides are found at the top of each notebook. Notebooks can be viewed in [github](#syllabus), viewed in [nbviewer](https://nbviewer.jupyter.org/github/camille-vanhoffelen/modern-ML-engineer/tree/master/), run locally with [jupyter](introduction/workstation_setup.ipynb), run with [mybinder](https://mybinder.org/v2/gh/camille-vanhoffelen/modern-ML-engineer/master), or run with [google colab](https://colab.research.google.com/github/camille-vanhoffelen/modern-ML-engineer/blob/master/data_exploration/lecture2.1/introduction_to_numpy_and_pandas.ipynb).
 
 ## Syllabus
 
 ### Introduction
 
-* Workstation setup
+* [Workstation Setup](introduction/workstation_setup.ipynb)
 
 ### Chapter 1: Data Engineering
 
@@ -65,12 +68,12 @@ Here's a few ideas:
 
 ### Chapter 2: Data Exploration
 
-* 2.1 Introduction to Numpy & Pandas
-* 2.2 Tabular Data Pt.1
-* 2.3 Tabular Data Pt.2
-* 2.4 Time Series Data
-* 2.5 Text & Image Data
-* 2.6 Data Visualization
+* [2.1 Introduction to Numpy & Pandas](data_exploration/2.1_introduction_to_numpy_and_pandas/introduction_to_numpy_and_pandas.ipynb)
+* [2.2 Tabular Data Pt.1](data_exploration/2.2_tabular_data_pt.1/tabular_data_pt.1.ipynb)
+* [2.3 Tabular Data Pt.2](data_exploration/2.3_tabular_data_pt.2/tabular_data_pt.2.ipynb)
+* [2.4 Time Series Data](data_exploration/2.4_time_series_data/time_series_data.ipynb)
+* [2.5 Text & Image Data](data_exploration/2.5_text_and_image_data/text_and_image_data.ipynb)
+* [2.6 Data Visualization](data_exploration/2.6_data_visualization/data_visualization.ipynb)
 
 ### Chapter 3: Data Analysis
 
@@ -130,7 +133,6 @@ The coursework is split between four small assignments, a final project, and a f
 The **small assignments** serve to synthesise the previous course content on your own, and put it to practice. They are all coding exercises: you will be given resources and/or code stubs, and will submit runnable code and some observations (see assignments [readme](assignments/README.md)).
 
 The **final project** tests everything that you have learnt from this course. This is a python notebook report like those data scientists make to share their experimental progress. It tests your ability to design, carry out, and communicate machine learning experiments. This is complemented by the **final presentation**, a 15mn talk to synthesize, and discuss the results. (see final project [readme](assignments/final_project.md)).
-
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
