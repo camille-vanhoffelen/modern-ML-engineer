@@ -99,9 +99,9 @@ Links to lecture slides are found at the top of each notebook. Notebooks can be 
 
 ### Chapter 4: ML Engineering
 
-* 4.1 Fundamentals of ML Engineering
-* 4.2 Evaluation Pt.1
-* 4.3 Evaluation Pt.2
+* [4.1 Fundamentals of ML Engineering](ml_engineering/4.1_fundamentals_of_ml_engineering/fundamentals_of_ml_engineering.ipynb)
+* [4.2 Evaluation Pt.1](ml_engineering/4.2_evaluation_pt.1/evaluation_pt.1.ipynb)
+* [4.3 Evaluation Pt.2](ml_engineering/4.3_evaluation_pt.2/evaluation_pt.2.ipynb)
 * 4.4 Error Analysis
 * 4.5 Hyperparameter Optimization
 * 4.6 ML Challenges
@@ -112,18 +112,26 @@ Links to lecture slides are found at the top of each notebook. Notebooks can be 
 * 4.11 Data Privacy & Security
 * 4.12 ML Ethics
 
+### Assignments
+
+* [Assignment 1](assignments/assignment1/assignment1.ipynb)
+* [Assignment 2](assignments/assignment2/assignment2.ipynb)
+* [Assignment 3](assignments/assignment3/assignment3.ipynb)
+* [Assignment 4](assignments/assignment4/assignment4.ipynb)
+* [Final Project](assignments/final_project.md)
+
 ## Learning Goals
 
 This course is designed to step through the journey of building a production data application, as reflected in the following learning goals:
 
 
-- Storing and Managing Data  
+- **Storing and Managing Data**  
 _Students can build data lakes and data repositories, as well as data pipelines to automate the gathering and processing of data._
-- Exploring and Analysing Data  
+- **Exploring and Analysing Data**  
 _Students can describe, visualise, and provide insights into tabular, time series, image, text, and geospatial data._
-- Building a Machine Learning Product  
+- **Building a Machine Learning Product**  
 _Students can build useful classification, regression, and clustering tools using Machine Learning methods._
-- Being Ethical and Secure  
+- **Being Ethical and Secure**  
 _Students understand the importance of privacy in data driven methods, and the responsibility of engineers concerning the impact of these technologies._
 
 ## Assignments
