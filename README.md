@@ -61,56 +61,56 @@ Workstation setup
 
 ### Chapter 1: Data Engineering
 
-1.1 Fundamentals of Data Engineering & Data Lakes
-1.2 Data Pipelines
-1.3 Data Warehouses
-1.4 Effective Data Storage
+* [1.1 Fundamentals of Data Engineering & Data Lakes](data_engineering/1.1_fundamentals_of_data_engineering/fundamentals_of_data_engineering.ipynb)
+* [1.2 Data Pipelines](data_engineering/1.2_data_pipelines/data_pipelines.ipynb)
+* [1.3 Data Warehouses](data_engineering/1.3_data_warehouses/data_warehouses.ipynb)
+* [1.4 Effective Data Storage](data_engineering/1.4_effective_data_storage/effective_data_storage.ipynb)
 
 ### Chapter 2: Data Exploration
 
-2.1 Introduction to Numpy & Pandas
-2.2 Tabular Data Pt.1
-2.3 Tabular Data Pt.2
-2.4 Time Series Data
-2.5 Text & Image Data
-2.6 Data Visualization
+* 2.1 Introduction to Numpy & Pandas
+* 2.2 Tabular Data Pt.1
+* 2.3 Tabular Data Pt.2
+* 2.4 Time Series Data
+* 2.5 Text & Image Data
+* 2.6 Data Visualization
 
 ### Chapter 3: Data Analysis
 
-3.1 Introduction to Machine Learning & Clustering
-3.2 Dimensionality Reduction
-3.3 Anomaly Detection
-3.4 Supervised Learning Fundamentals
-3.5 Linear Regression
-3.6 Logistic Regression
-3.7 Learning Better Pt.1
-3.8 Learning Better Pt.2
-3.9 Support Vector Machines
-3.10 Random Forests
-3.11 Neural Networks Pt.1
-3.12 Neural Networks Pt.2
-3.13 Learning Better Pt.3
-3.14 Introduction to Pytorch
-3.15 Computer Vision Pt.1
-3.16 Computer Vision Pt.2
-3.17 Natural Language Processing Pt.1
-3.18 Natural Language Processing Pt.2
-3.19 ML Research
+* 3.1 Introduction to Machine Learning & Clustering
+* 3.2 Dimensionality Reduction
+* 3.3 Anomaly Detection
+* 3.4 Supervised Learning Fundamentals
+* 3.5 Linear Regression
+* 3.6 Logistic Regression
+* 3.7 Learning Better Pt.1
+* 3.8 Learning Better Pt.2
+* 3.9 Support Vector Machines
+* 3.10 Random Forests
+* 3.11 Neural Networks Pt.1
+* 3.12 Neural Networks Pt.2
+* 3.13 Learning Better Pt.3
+* 3.14 Introduction to Pytorch
+* 3.15 Computer Vision Pt.1
+* 3.16 Computer Vision Pt.2
+* 3.17 Natural Language Processing Pt.1
+* 3.18 Natural Language Processing Pt.2
+* 3.19 ML Research
 
 ### Chapter 4: ML Engineering
 
-4.1 Fundamentals of ML Engineering
-4.2 Evaluation Pt.1
-4.3 Evaluation Pt.2
-4.4 Error Analysis
-4.5 Hyperparameter Optimization
-4.6 ML Challenges
-4.7 ML Labs
-4.8 Datasets & Labeling
-4.9 ML Architecture
-4.10 ML Deployment
-4.11 Data Privacy & Security
-4.12 ML Ethics
+* 4.1 Fundamentals of ML Engineering
+* 4.2 Evaluation Pt.1
+* 4.3 Evaluation Pt.2
+* 4.4 Error Analysis
+* 4.5 Hyperparameter Optimization
+* 4.6 ML Challenges
+* 4.7 ML Labs
+* 4.8 Datasets & Labeling
+* 4.9 ML Architecture
+* 4.10 ML Deployment
+* 4.11 Data Privacy & Security
+* 4.12 ML Ethics
 
 ## Learning Goals
 

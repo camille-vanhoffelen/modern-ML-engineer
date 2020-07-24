@@ -23,6 +23,7 @@ pydot = "*"
 graphviz = "*"
 torch = "*"
 torchvision = "*"
+transformers = "*"
 
 [requires]
 python_version = "3.8"
